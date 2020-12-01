@@ -9,7 +9,7 @@
 	
 	--dfontwhite1: 255,255,255;
 	
-	--vaccentcolor-hover: rgb(var(--vaccentcolor)) linear-gradient(0deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.15));
+	--vaccentcolor-hover: rgb(var(--vaccentcolor)) linear-gradient(0deg, rgb(118, 55, 237), rgba(255, 255, 255, 0.15));
 	--vaccentcolor-active: rgb(var(--vaccentcolor)) linear-gradient(0deg, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3));
 	
 	--bd-blue: rgb(var(--vaccentcolor));
